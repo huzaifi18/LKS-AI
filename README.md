@@ -75,6 +75,6 @@ Belajar untuk persiapan LKSN-AI SMKN 1 Jakarta.
     ✓ jupyter telah terinstall dengan baik
     ✓ nb_conda_kernels telah terinstall dengan baik
     ✓ Environment LKS-AI terdeteksi
-    ✓ Package telah terinstall dengan baik di dalam environment jcopml
+    ✓ Package telah terinstall dengan baik di dalam environment LKS-AI
     ✓ Instalasi berjalan dengan baik. Selamat belajar!
     ```
