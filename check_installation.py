@@ -3,9 +3,9 @@ import subprocess
 req = {
     "python", "tqdm", "nb_conda_kernels", "pip", "ipython", "numpy", "scipy", "pandas", 
     "scikit-learn", "matplotlib", "seaborn", "ipywidgets", "xgboost", "scikit-optimize", 
-    "LKS-AI", "luwiji"
+    "jcopml", "luwiji"
 }
-env_name = "LKS-AI"
+env_name = "LKS_AI"
 working_folder = "LKS-AI"
 env_file = "env_LKS-AI.yml"
 
