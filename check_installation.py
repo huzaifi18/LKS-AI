@@ -5,7 +5,7 @@ req = {
     "scikit-learn", "matplotlib", "seaborn", "ipywidgets", "xgboost", "scikit-optimize", 
     "jcopml", "luwiji"
 }
-env_name = "LKS_AI"
+env_name = "LKS-AI"
 working_folder = "LKS-AI"
 env_file = "env_LKS-AI.yml"
 
