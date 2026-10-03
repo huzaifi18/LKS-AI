@@ -28,4 +28,4 @@ dependencies:
   # Machine Learning
   - jcopml==1.2.0
   - luwiji==1.2.0
-  - jupyterlab-code-snippets
+  - elyra-code-snippet-extension
