@@ -13,7 +13,7 @@ Belajar untuk persiapan LKSN-AI SMKN 1 Jakarta.
 ### **Windows user**
 - Download miniconda untuk Python 3.7
     - Klik link ini untuk download: [Miniconda Windows 64-bit](https://repo.anaconda.com/miniconda/Miniconda3-py39_23.3.1-0-Windows-x86_64.exe)
-    - Note: skip step ini apabila kamu sudah menggunakan Anaconda sebelumnya. Walau demikian, saya akan jelaskan alasan kenapa kamu sebaiknya menggunakan miniconda nanti di course ini.
+    - Note: skip step ini apabila kamu sudah menggunakan Anaconda sebelumnya.
 
 - Install miniconda
     - Ketika ada pilihan `install for`, pilih `Just Me (recommended)`
@@ -25,7 +25,7 @@ Belajar untuk persiapan LKSN-AI SMKN 1 Jakarta.
 ### **Mac user**
 - Download miniconda untuk Python 3.7
     - Klik link ini untuk download: [Miniconda Mac OS X 64-bit](https://repo.anaconda.com/miniconda/Miniconda3-py39_23.3.1-0-MacOSX-x86_64.pkg)
-    - Note: skip step ini apabila kamu sudah menggunakan Anaconda sebelumnya. Walau demikian, saya akan jelaskan alasan kenapa kamu sebaiknya menggunakan miniconda nanti di course ini.
+    - Note: skip step ini apabila kamu sudah menggunakan Anaconda sebelumnya
 
 - Install miniconda
     - Install tanpa mengubah opsi apapun
@@ -36,7 +36,7 @@ Belajar untuk persiapan LKSN-AI SMKN 1 Jakarta.
 ### **Linux user**
 - Download miniconda untuk Python 3.7
     - Klik link ini untuk download: [Miniconda Linux 64-bit](https://repo.anaconda.com/miniconda/Miniconda3-py39_23.3.1-0-Linux-x86_64.sh)
-    - Note: skip step ini apabila kamu sudah menggunakan Anaconda sebelumnya. Walau demikian, saya akan jelaskan alasan kenapa kamu sebaiknya menggunakan miniconda nanti di course ini.
+    - Note: skip step ini apabila kamu sudah menggunakan Anaconda sebelumnya.
     
 - Install miniconda
     - jalankan terminal
