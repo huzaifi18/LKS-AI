@@ -6,7 +6,7 @@ Belajar untuk persiapan LKSN-AI SMKN 1 Jakarta.
 - Klik disini untuk [Download ZIP](https://codeload.github.com/huzaifi18/LKS-AI/zip/master), atau
 - Bagi yang familiar dengan git, boleh menggunakan clone
     ```
-    git clone https://github.com/huzaifi/LKS-AI.git
+    git clone https://github.com/huzaifi18/LKS-AI.git
     ```
 
 ## Step 2: Instalasi Miniconda
