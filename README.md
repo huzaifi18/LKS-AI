@@ -1,12 +1,12 @@
-# Supervised Learning by J.COp
-Belajar dasar-dasar machine learning dari nol. Untuk fase pertama, kita akan mempelajari teknik-teknik supervised learning menggunakan scikit-learn dan jcopml.
+# Persiapan LKSN AI
+Belajar untuk persiapan LKSN-AI SMKN 1 Jakarta.
 
 # Starter Guide
 ## Step 1: Download materi
-- Klik disini untuk [Download ZIP](https://codeload.github.com/WiraDKP/supervised_learning/zip/master), atau
+- Klik disini untuk [Download ZIP](https://codeload.github.com/huzaifi18/LKS-AI/zip/master), atau
 - Bagi yang familiar dengan git, boleh menggunakan clone
     ```
-    git clone https://github.com/WiraDKP/supervised_learning.git
+    git clone https://github.com/huzaifi/LKS-AI.git
     ```
 
 ## Step 2: Instalasi Miniconda
@@ -61,9 +61,9 @@ Belajar dasar-dasar machine learning dari nol. Untuk fase pertama, kita akan mem
     ```
     cd supervised_learning/
     ```
-- Jalankan command ini untuk menginstall environment `jcopml`
+- Jalankan command ini untuk menginstall environment `LKS-AI`
     ```
-    conda env create -f env_jcopml.yml
+    conda env create -f env_LKS-AI.yml
     ```
 
 ## Step 5: Memastikan environment terinstall dengan baik
@@ -75,25 +75,7 @@ Belajar dasar-dasar machine learning dari nol. Untuk fase pertama, kita akan mem
     ```
     ✓ jupyter telah terinstall dengan baik
     ✓ nb_conda_kernels telah terinstall dengan baik
-    ✓ Environment jcopml terdeteksi
+    ✓ Environment LKS-AI terdeteksi
     ✓ Package telah terinstall dengan baik di dalam environment jcopml
     ✓ Instalasi berjalan dengan baik. Selamat belajar!
     ```
-
-# Note
-Notebook versi 7.x breaking (hampir) semua extension yang ada, salah satunya "Snippets Menu" yang banyak digunakan di course.
-Jika masih ingin menggunakan "Snippets Menu" maka mesti downgrade ke Notebook 5.x dengan command berikut
-```
->> conda install -n base -c conda-forge jupyter nb_conda_kernels 
->> pip install notebook==5.7.11
-```
-
-Kalau tab nbextensions nya tidak muncul atau misalnya sudah muncul tapi isinya kosong.
-Coba jalankan ini di conda prompt / terminal nya
-```
->> jupyter contrib nbextension install --user
->> jupyter nbextension enable varInspector/main
-```
-
-Walau demikian, projek nbextensions sudah terlihat mati suri karena migrasi Notebook 7.x sehingga cepat lambat saya sarankan juga untuk move on (meninggalkan Jupyter Notebook dan pindah menggunakan Jupyter Lab).
-Di versi jcop yang lebih baru ada sediakan snippets yang bisa digunakan di Jupyter Lab, Jupyter Notebook, dan Jupyter VS Code.

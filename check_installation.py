@@ -3,11 +3,11 @@ import subprocess
 req = {
     "python", "tqdm", "nb_conda_kernels", "pip", "ipython", "numpy", "scipy", "pandas", 
     "scikit-learn", "matplotlib", "seaborn", "ipywidgets", "xgboost", "scikit-optimize", 
-    "jcopml", "luwiji"
+    "LKS-AI", "luwiji"
 }
-env_name = "jcopml"
+env_name = "LKS-AI"
 working_folder = "supervised_learning"
-env_file = "env_jcopml.yml"
+env_file = "env_LKS-AI.yml"
 
 
 def existing_env():

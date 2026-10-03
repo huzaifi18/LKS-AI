@@ -1,4 +1,4 @@
-name: jcopml
+name: LKS-AI
 
 channels:
 - conda-forge
@@ -28,3 +28,4 @@ dependencies:
   # Machine Learning
   - jcopml==1.2.0
   - luwiji==1.2.0
+  - jupyterlab-code-snippets
