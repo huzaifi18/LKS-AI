@@ -25,7 +25,6 @@ Belajar untuk persiapan LKSN-AI SMKN 1 Jakarta.
 ### **Mac user**
 - Download miniconda untuk Python 3.7
     - Klik link ini untuk download: [Miniconda Mac OS X 64-bit](https://repo.anaconda.com/miniconda/Miniconda3-py39_23.3.1-0-MacOSX-x86_64.pkg)
-    - 
     - Note: skip step ini apabila kamu sudah menggunakan Anaconda sebelumnya. Walau demikian, saya akan jelaskan alasan kenapa kamu sebaiknya menggunakan miniconda nanti di course ini.
 
 - Install miniconda
@@ -59,7 +58,7 @@ Belajar untuk persiapan LKSN-AI SMKN 1 Jakarta.
 ## Step 4: Instalasi Environment
 - Change directory `cd` ke folder kerja ini
     ```
-    cd supervised_learning/
+    cd LKS-AI/
     ```
 - Jalankan command ini untuk menginstall environment `LKS-AI`
     ```

@@ -6,7 +6,7 @@ req = {
     "LKS-AI", "luwiji"
 }
 env_name = "LKS-AI"
-working_folder = "supervised_learning"
+working_folder = "LKS-AI"
 env_file = "env_LKS-AI.yml"
 
 
