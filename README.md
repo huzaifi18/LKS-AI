@@ -3,7 +3,7 @@ Belajar untuk persiapan LKSN-AI SMKN 1 Jakarta.
 
 # Starter Guide
 ## Step 1: Download materi
-- Klik disini untuk [Download ZIP](https://codeload.github.com/huzaifi18/LKS-AI/zip/master), atau
+- Klik disini untuk [Download ZIP](https://github.com/huzaifi18/LKS-AI/archive/refs/heads/main.zip), atau
 - Bagi yang familiar dengan git, boleh menggunakan clone
     ```
     git clone https://github.com/huzaifi18/LKS-AI.git
